@@ -54,7 +54,7 @@
         <scala.version>2.12.6</scala.version>
         <scala.binary.version>2.12</scala.binary.version>
         <scala.pcombinators>1.1.2</scala.pcombinators>
-        <akka-http.version>10.1.10</akka-http.version>
+        <akka-http.version>10.5.3</akka-http.version>
         <akka.version>2.5.26</akka.version>
         <!--mongodb.scala.version>1.2.0</mongodb.scala.version-->
         <mongodb.scala.version>2.7.0</mongodb.scala.version>
